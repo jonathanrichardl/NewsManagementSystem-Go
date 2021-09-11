@@ -1,0 +1,52 @@
+INFO: 2021/09/09 22:19:56 main.go:13: Reading database configuration
+INFO: 2021/09/09 22:19:56 main.go:22: Initializing Program
+INFO: 2021/09/09 22:20:33 main.go:13: Reading database configuration
+INFO: 2021/09/09 22:20:33 main.go:22: Initializing Program
+INFO: 2021/09/09 22:21:11 main.go:13: Reading database configuration
+INFO: 2021/09/09 22:21:11 main.go:22: Initializing Program
+INFO: 2021/09/09 22:21:36 main.go:13: Reading database configuration
+INFO: 2021/09/09 22:21:36 main.go:22: Initializing Program
+INFO: 2021/09/09 22:27:46 main.go:13: Reading database configuration
+INFO: 2021/09/09 22:27:46 main.go:22: Initializing Program
+INFO: 2021/09/09 22:29:47 main.go:13: Reading database configuration
+INFO: 2021/09/09 22:29:47 main.go:22: Initializing Program
+INFO: 2021/09/09 22:31:35 main.go:13: Reading database configuration
+INFO: 2021/09/09 22:31:35 main.go:22: Initializing Program
+INFO: 2021/09/09 22:34:04 modify_news_handler.go:79: Request to remove tags received
+Error: 2021/09/09 22:34:04 modify_news_handler.go:90: Error unmarshaling remove tags request:  unexpected end of JSON input
+WARNING: 2021/09/09 22:34:04 modify_news_handler.go:101: No tags removed added!
+INFO: 2021/09/09 22:36:45 main.go:13: Reading database configuration
+INFO: 2021/09/09 22:36:45 main.go:22: Initializing Program
+INFO: 2021/09/09 22:36:57 modify_news_handler.go:79: Request to remove tags received
+INFO: 2021/09/09 22:36:57 modify_news_handler.go:87: New tags added!
+INFO: 2021/09/09 22:37:05 modify_news_handler.go:79: Request to remove tags received
+INFO: 2021/09/09 22:37:05 modify_news_handler.go:87: New tags added!
+INFO: 2021/09/09 22:37:29 modify_news_handler.go:79: Request to remove tags received
+INFO: 2021/09/09 22:37:29 modify_news_handler.go:87: New tags added!
+INFO: 2021/09/09 22:39:40 main.go:13: Reading database configuration
+INFO: 2021/09/09 22:39:40 main.go:22: Initializing Program
+INFO: 2021/09/09 22:39:44 modify_news_handler.go:79: Request to remove tags received
+INFO: 2021/09/09 22:39:44 modify_news_handler.go:87: New tags added!
+INFO: 2021/09/09 22:42:42 main.go:13: Reading database configuration
+INFO: 2021/09/09 22:42:42 main.go:22: Initializing Program
+INFO: 2021/09/09 22:42:47 modify_news_handler.go:79: Request to remove tags received
+INFO: 2021/09/09 22:42:47 modify_news_handler.go:87: New tags added!
+INFO: 2021/09/09 22:44:57 main.go:13: Reading database configuration
+INFO: 2021/09/09 22:44:57 main.go:22: Initializing Program
+INFO: 2021/09/09 22:45:31 add_news_handler.go:12: Add news request received
+INFO: 2021/09/09 22:45:31 add_news_handler.go:32: News 'Hello Bareksa' is added into database
+INFO: 2021/09/09 22:46:02 add_news_handler.go:12: Add news request received
+INFO: 2021/09/09 22:46:02 add_news_handler.go:32: News 'Hello World' is added into database
+INFO: 2021/09/09 22:46:50 modify_news_handler.go:29: Updating title of Hello Bareksa into Healthy Investation for Everyone
+INFO: 2021/09/09 22:46:51 modify_news_handler.go:38: Updating topic of Healthy Investation for Everyone into [Investation Money]
+INFO: 2021/09/09 22:46:51 modify_news_handler.go:42: Updating topic of Healthy Investation for Everyone into Published
+INFO: 2021/09/09 22:46:59 modify_news_handler.go:29: Updating title of Hello Bareksa into Healthy Investation for Everyone
+INFO: 2021/09/09 22:47:00 modify_news_handler.go:38: Updating topic of Healthy Investation for Everyone into [Investation Money]
+INFO: 2021/09/09 22:47:00 modify_news_handler.go:42: Updating topic of Healthy Investation for Everyone into Published
+INFO: 2021/09/09 22:47:38 modify_news_handler.go:29: Updating title of Hello Bareksa into Healthy Investation for Everyone
+INFO: 2021/09/09 22:47:38 modify_news_handler.go:38: Updating topic of Healthy Investation for Everyone into [Investation Money]
+INFO: 2021/09/09 22:47:38 modify_news_handler.go:42: Updating topic of Healthy Investation for Everyone into Publish
+INFO: 2021/09/09 22:49:04 modify_news_handler.go:79: Request to remove tags received
+INFO: 2021/09/09 22:49:04 modify_news_handler.go:87: New tags added!
+INFO: 2021/09/09 22:49:49 modify_news_handler.go:48: Request to add new tags received
+INFO: 2021/09/09 22:49:49 modify_news_handler.go:73: New tags added!
