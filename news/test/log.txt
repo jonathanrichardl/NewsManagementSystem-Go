@@ -1,0 +1,34 @@
+INFO: 2021/09/12 12:14:02 main_test.go:21: Initializing Program
+INFO: 2021/09/12 12:14:02 add_news_handler.go:12: Add news request received
+INFO: 2021/09/12 12:14:03 add_news_handler.go:32: News 'WhatisGo?' is added into database
+INFO: 2021/09/12 12:14:03 main_test.go:21: Initializing Program
+INFO: 2021/09/12 12:14:03 main_test.go:21: Initializing Program
+INFO: 2021/09/12 12:14:03 main_test.go:21: Initializing Program
+INFO: 2021/09/12 12:14:03 main_test.go:21: Initializing Program
+INFO: 2021/09/12 12:14:03 main_test.go:21: Initializing Program
+INFO: 2021/09/12 12:14:03 modify_news_handler.go:29: Updating title of HealthyInvestation into NewTitle
+INFO: 2021/09/12 12:14:03 modify_news_handler.go:34: Updating topic of NewTitle into Programming
+INFO: 2021/09/12 12:14:03 modify_news_handler.go:38: Updating topic of NewTitle into [Golang Program]
+INFO: 2021/09/12 12:14:03 main_test.go:21: Initializing Program
+INFO: 2021/09/12 12:14:03 modify_news_handler.go:48: Request to add new tags received
+INFO: 2021/09/12 12:14:03 modify_news_handler.go:73: New tags added!
+INFO: 2021/09/12 12:14:03 main_test.go:21: Initializing Program
+INFO: 2021/09/12 12:14:03 modify_news_handler.go:48: Request to add new tags received
+INFO: 2021/09/12 12:14:03 modify_news_handler.go:73: New tags added!
+INFO: 2021/09/12 12:15:50 main_test.go:21: Initializing Program
+INFO: 2021/09/12 12:15:50 add_news_handler.go:12: Add news request received
+Error: 2021/09/12 12:15:50 add_news_handler.go:25: News with title WhatisGo? already exists!
+INFO: 2021/09/12 12:15:50 main_test.go:21: Initializing Program
+INFO: 2021/09/12 12:15:50 main_test.go:21: Initializing Program
+INFO: 2021/09/12 12:15:50 main_test.go:21: Initializing Program
+INFO: 2021/09/12 12:15:50 main_test.go:21: Initializing Program
+INFO: 2021/09/12 12:15:50 main_test.go:21: Initializing Program
+INFO: 2021/09/12 12:15:50 modify_news_handler.go:29: Updating title of HealthyInvestation into NewTitle
+INFO: 2021/09/12 12:15:50 modify_news_handler.go:34: Updating topic of NewTitle into Programming
+INFO: 2021/09/12 12:15:51 modify_news_handler.go:38: Updating topic of NewTitle into [Golang Program]
+INFO: 2021/09/12 12:15:51 main_test.go:21: Initializing Program
+INFO: 2021/09/12 12:15:51 modify_news_handler.go:48: Request to add new tags received
+INFO: 2021/09/12 12:15:51 modify_news_handler.go:73: New tags added!
+INFO: 2021/09/12 12:15:51 main_test.go:21: Initializing Program
+INFO: 2021/09/12 12:15:51 modify_news_handler.go:48: Request to add new tags received
+INFO: 2021/09/12 12:15:51 modify_news_handler.go:73: New tags added!

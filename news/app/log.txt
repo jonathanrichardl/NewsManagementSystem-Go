@@ -50,3 +50,46 @@ INFO: 2021/09/09 22:49:04 modify_news_handler.go:79: Request to remove tags rece
 INFO: 2021/09/09 22:49:04 modify_news_handler.go:87: New tags added!
 INFO: 2021/09/09 22:49:49 modify_news_handler.go:48: Request to add new tags received
 INFO: 2021/09/09 22:49:49 modify_news_handler.go:73: New tags added!
+INFO: 2021/09/12 11:57:46 main.go:13: Reading database configuration
+INFO: 2021/09/12 11:57:46 main.go:22: Initializing Program
+INFO: 2021/09/12 12:17:06 main.go:13: Reading database configuration
+INFO: 2021/09/12 12:17:06 main.go:22: Initializing Program
+INFO: 2021/09/12 12:19:48 add_news_handler.go:12: Add news request received
+INFO: 2021/09/12 12:19:48 add_news_handler.go:32: News 'New way to invest' is added into database
+INFO: 2021/09/12 12:23:48 add_news_handler.go:12: Add news request received
+Error: 2021/09/12 12:23:48 add_news_handler.go:25: News with title New way to invest already exists!
+INFO: 2021/09/12 13:12:23 modify_news_handler.go:29: Updating title of New way to invest into Save, New Way to Invest
+INFO: 2021/09/12 13:12:48 modify_news_handler.go:42: Updating topic of Save, New Way to Invest into Published
+INFO: 2021/09/12 13:13:03 main.go:13: Reading database configuration
+INFO: 2021/09/12 13:13:03 main.go:22: Initializing Program
+INFO: 2021/09/12 13:13:09 modify_news_handler.go:29: Updating title of New way to invest into Save, New Way to Invest
+INFO: 2021/09/12 13:13:09 modify_news_handler.go:42: Updating topic of Save, New Way to Invest into Publish
+INFO: 2021/09/12 13:27:09 add_news_handler.go:12: Add news request received
+INFO: 2021/09/12 13:27:10 add_news_handler.go:32: News 'New way to invest' is added into database
+INFO: 2021/09/12 13:27:27 add_news_handler.go:12: Add news request received
+INFO: 2021/09/12 13:27:27 add_news_handler.go:32: News 'How to Safely Gain Money' is added into database
+INFO: 2021/09/12 13:27:36 add_news_handler.go:12: Add news request received
+INFO: 2021/09/12 13:27:36 add_news_handler.go:32: News 'Study Go Programming Language now!' is added into database
+INFO: 2021/09/12 13:27:45 add_news_handler.go:12: Add news request received
+INFO: 2021/09/12 13:27:46 add_news_handler.go:32: News 'Learn SQL Now' is added into database
+INFO: 2021/09/12 13:27:59 add_news_handler.go:12: Add news request received
+INFO: 2021/09/12 13:27:59 add_news_handler.go:32: News 'Could IOT Take Over the World?' is added into database
+INFO: 2021/09/12 13:28:05 add_news_handler.go:12: Add news request received
+Error: 2021/09/12 13:28:05 add_news_handler.go:25: News with title Indonesia's 2045 Gold Vision already exists!
+INFO: 2021/09/12 13:30:51 modify_news_handler.go:29: Updating title of New way to invest into Save, New Way to Invest
+INFO: 2021/09/12 13:30:51 modify_news_handler.go:42: Updating topic of Save, New Way to Invest into Published
+INFO: 2021/09/12 13:35:47 modify_news_handler.go:48: Request to add new tags received
+INFO: 2021/09/12 13:35:47 modify_news_handler.go:73: New tags added!
+INFO: 2021/09/12 13:36:10 modify_news_handler.go:48: Request to add new tags received
+INFO: 2021/09/12 13:36:10 modify_news_handler.go:73: New tags added!
+INFO: 2021/09/12 13:38:25 modify_news_handler.go:48: Request to add new tags received
+WARNING: 2021/09/12 13:38:25 modify_news_handler.go:64: News How to Safely Gain Money already have tag Investation
+INFO: 2021/09/12 13:38:25 modify_news_handler.go:73: New tags added!
+INFO: 2021/09/13 12:49:10 main.go:13: Reading database configuration
+INFO: 2021/09/13 12:49:10 main.go:22: Initializing Program
+INFO: 2021/09/13 12:49:58 main.go:13: Reading database configuration
+INFO: 2021/09/13 12:49:58 main.go:22: Initializing Program
+INFO: 2021/09/13 12:53:19 add_news_handler.go:12: Add news request received
+INFO: 2021/09/13 12:53:19 add_news_handler.go:32: News 'Indonesia in 2045' is added into database
+INFO: 2021/09/13 13:13:59 add_news_handler.go:12: Add news request received
+INFO: 2021/09/13 13:14:00 add_news_handler.go:32: News 'Will ARM beat Intel eventually' is added into database
